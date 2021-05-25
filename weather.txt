@@ -1,0 +1,118 @@
+}
+.pqr{
+  margin-left: 2px;
+
+}
+.a{
+  margin-left: 10px;
+
+}
+
+.days {
+  float: left;
+}
+
+.tile {
+  float: inherit;
+  padding-left: 10px;
+}
+
+
+
+
+
+    <div class="days">
+
+      <div class="tile">
+        <div class="day" aria-label="saturday">Sat</div>
+        <div class="wimg">
+          <img src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png" alt="partly cloudy">
+          <div class="temp2">36&#176; 28&#176;</div>
+        </div>
+      </div>
+
+      <div class="tile">
+        <div class="day" aria-label="sunday">Sun</div>
+        <div class="wimg">
+          <img src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png" alt="partly cloudy">
+          <div class="temp2">36&#176; 28&#176;</div>
+        </div>
+      </div>
+
+      <div class="tile">
+        <div class="day" aria-label="monday">Sun</div>
+        <div class="wimg">
+          <img src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png" alt="partly cloudy">
+          <div class="temp2">36&#176; 28&#176;</div>
+        </div>
+      </div>
+
+<p>Sat 22     <b>77&#176;</b>/70&#176;      🌩️ Thunderstorms      💧37%         	 </p>
+
+
+
+div{
+  display: inline-block;
+  margin-left: 50px;
+  text-align: center;
+
+}
+h1{
+  text-align: center;
+  margin: 0;
+
+  font-family: cursive;
+}
+h2{
+  text-align: center;
+  font-size: 50px;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+}
+
+.temp{
+  margin: 0;
+  text-align: center;
+  font-size: 30px;
+
+}
+h4{
+
+  text-align: center;
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+
+
+table{
+  font-style: normal;
+  border: 1px solid black;
+  border-left: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+
+hr{
+  border-top: 1px dotted #8c8b8b;
+}
+
+
+th, td {
+  padding: 5px;
+  text-align: center;
+}
+
+table{
+  font-style: normal;
+  border: 1px solid black;
+  border-left: collapse;
+  margin-bottom: 20px;
+}
